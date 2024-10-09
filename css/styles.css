@@ -1,0 +1,200 @@
+body {
+  background: #f6f6fa;
+  padding: 40px 40px 40px 40px;
+  font-family: "Montserrat", sans-serif, "Josefin Sans", sans-serif;
+}
+.Wrapper {
+  background: #dae1f79f;
+  display: flex;
+  width: 1300px;
+  margin: 0 auto;
+  flex-direction: row-reverse;
+}
+/* Main Content */
+.maincontent {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+p {
+  font-size: 25px;
+  font-family: "Josefin Sans", sans-serif;
+}
+li {
+  font-size: 18px;
+  font-family: "Josefin Sans", sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
+}
+h3 {
+  font-size: 25px;
+}
+
+/* SideBar */
+.Side-bar {
+  background: rgb(179, 229, 233);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.SideBarContent {
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+}
+/* Contacts */
+.Contacts-Title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.ContactsType {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
+  margin-right: 8px;
+}
+.ContactsLink {
+  color: rgb(19, 63, 206);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: none;
+}
+.Contactsitem {
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.contactsContainer {
+  margin-bottom: 40px;
+}
+/* SkillsContainer */
+.skillscontainer {
+  margin-bottom: 40px;
+}
+.SkillsTitle {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.SkillsList {
+  padding-left: 23px;
+}
+.SkillsListItem {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 171%;
+  color: #161d2a;
+}
+/* Developer */
+.Developer {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 121%;
+  color: #000;
+  margin-bottom: 5px;
+}
+.NamesDeveloper {
+  margin-top: 8px;
+  margin-bottom: 0px;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 122%;
+  color: #000;
+}
+.AboutMe {
+  margin-top: 8px;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 17px;
+  color: #350386;
+  font-family: "Josefin Sans", sans-serif;
+}
+/* Projects */
+.MyProjects {
+  margin-bottom: 0px;
+}
+.ProjectsListItem {
+  font-family: "Montserrat", sans-serif;
+}
+.ProjectsList {
+  margin-top: 16px;
+}
+.ProjectListLink {
+  text-decoration-line: none;
+}
+.SpanClass1 {
+  margin-left: 15px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.SpanClass2 {
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.SpanClass3 {
+  margin-left: 53px;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.WorkTime {
+  margin-bottom: 0px;
+  margin-top: 12px;
+  font-size: 18px;
+}
+.WorkExpirience {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.ListMyWork {
+  margin-top: 8px;
+}
+.AboutFirstWork {
+  margin-bottom: 12px;
+  margin-top: 10px;
+}
+.WorkPoint {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-decoration-line: none;
+  font-size: 20px;
+}
+.MyJobtitle {
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.EducationMe {
+  margin-bottom: 0px;
+}
+.University {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 18px;
+}
+.LinkUniversity {
+  text-decoration-line: none;
+}
+.Marketing {
+  font-weight: 500;
+  margin-top: 10px;
+  font-size: 22px;
+  margin-bottom: 0px;
+}
+.WorksTime {
+  margin-top: 10px;
+  font-size: 18px;
+}
